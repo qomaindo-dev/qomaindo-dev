@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Golang Developer from Indonesia
+Just a Golang Developer from Indonesia trying to turn from a cup of coffee ☕ into a program 🖥️
 
 
 ## 🌐 Socials:
